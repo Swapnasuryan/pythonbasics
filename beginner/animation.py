@@ -1,10 +1,10 @@
 from tkinter import *
 import time
 
-WIDTH = 5000
-HEIGHT = 5000
-xVelocity = 2
-yvelocity = 3
+WIDTH = 500
+HEIGHT = 500
+xVelocity = 3
+yvelocity = 2
 
 window = Tk()
 
